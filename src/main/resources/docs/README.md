@@ -13,4 +13,4 @@ one board layout.
 - Looking for a specific request? See [Supported Requests](pages/supported-requests.md).
 - Need the shape of what comes back? See [Entities](pages/entities.md).
 
-**Version 1.0.0** · [Release Notes](pages/ReleaseNotes.md)
+**Version 1.0.1** · [Release Notes](pages/ReleaseNotes.md)
