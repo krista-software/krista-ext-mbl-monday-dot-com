@@ -54,7 +54,7 @@ import java.util.Map;
         description = "HTTP timeout in seconds. Defaults to 60.")
 @Field.Text(value = MondayAttributes.MAX_BOARDS_TO_SCAN, required = false,
         description = "How many boards Get Items may scan when no Board ID is given. Defaults to 25.")
-@Extension(name = "MBL Monday Dot Com", version = "1.0.0", jaxrsId = "mondayextn",
+@Extension(name = "MBL Monday Dot Com", version = "1.0.1", jaxrsId = "mondayextn",
         description = "Read, search, create and update monday.com board items from Krista agents and workflows.")
 @StaticResource(path = "docs", file = "docs")
 @ChangeLog(file = "docs/pages/ReleaseNotes.md")

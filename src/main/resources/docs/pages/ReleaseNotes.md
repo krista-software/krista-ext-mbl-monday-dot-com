@@ -3,12 +3,27 @@
 | | |
 |---|---|
 | Extension | MBL Monday Dot Com |
-| Current version | 1.0.0 |
+| Current version | 1.0.1 |
 | Ecosystem / Domain | Essentials / Collaboration |
 | Target system | monday.com GraphQL API, `POST https://api.monday.com/v2` |
 | Pinned API version | `2026-10` (configurable on the Setup tab) |
 | Krista Service APIs Java | 1.0.126 |
 | Java | 21 |
+
+---
+
+## Version 1.0.1 (November 2026)
+
+Version bump only. No functional change.
+
+### Changed
+
+- Extension version raised from 1.0.0 to 1.0.1.
+
+Everything else is exactly as it was in 1.0.0: the same catalog requests with the same inputs and
+outputs, the same entities, the same OAuth and API-token sign-in, the same connection attributes, and
+the same pinned monday.com API version `2026-10`. Krista Service APIs Java stays at 1.0.126. The
+[Known limitations](#known-limitations) recorded for 1.0.0 still apply.
 
 ---
 
